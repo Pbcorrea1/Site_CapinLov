@@ -1,0 +1,62 @@
+ 
+html,body{
+	margin: 0;
+	height: 100%;
+	font: 16px sans-serif;
+}
+
+header{
+	font-size:32PX;
+	background:#111;
+	border-bottom:3px solid #5cb85c;
+	opacity: 0.9;
+	
+}
+
+
+#logo{
+	margin-left: 60px;
+}
+
+#barra-superior{
+	border-radius: 20px;
+	margin-right: 75px;
+}
+
+#barra-superior a{
+	color:#305F10 ;
+
+}
+
+#barra-superior a:hover{
+	background:#41AD41;
+}
+
+#barra-superior li{
+	padding:auto;
+	margin: auto;
+}
+
+#barra-superior li a:hover{
+	text-decoration:underline ; 
+
+}
+
+.conteudo{
+
+	padding: 60px;
+	margin: 60px, 50px;
+}
+
+#propaganda{
+	border: solid black 2px;
+	border-radius: 30px;
+
+}
+
+#pix{
+	font-size: 12px;
+}
+
+
+
